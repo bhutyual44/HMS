@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\Hospital\hospitals.Utilities\obj\Debug\net6.0\hospitals.Utilities.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Hospital\hospitals.Utilities\obj\Debug\net6.0\hospitals.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Hospital\hospitals.Utilities\obj\Debug\net6.0\hospitals.Utilities.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Hospital\hospitals.Utilities\obj\Debug\net6.0\hospitals.Utilities.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Hospital\hospitals.Utilities\obj\Debug\net6.0\hospitals.Utilities.csproj.CoreCompileInputs.cache
